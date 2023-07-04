@@ -24,7 +24,7 @@ License: For each use you must have a valid license purchased only from above li
     @include('layouts.theme.styles')
 </head>
 
-<body>
+<body class="sidebar-dark">
     <div class="main-wrapper">
 
         <!-- partial:../../partials/_sidebar.html -->
